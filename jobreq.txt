@@ -1,0 +1,13 @@
+Like Google's own ambitions, the work of a Software Engineer (SWE) goes way beyond just Search. SWE Managers have not only the technical chops to roll up their sleeves and provide technical leadership to major projects, but also manage a team of engineers. You not only optimize your own code but make sure engineers are able to optimize theirs. As a SWE Manager you manage your project goals, contribute to product strategy and help develop your team. SWE teams work all across the company, in areas such as information retrieval, artificial intelligence, natural language processing, distributed computing, large-scale system design, networking, security, data compression, user interface design; the list goes on and is growing every day. Operating with scale and speed, our exceptional software engineers are just getting started -- and as a manager, you guide the way. With technical and leadership expertise, you manage engineers across multiple teams and locations, a large product budget and oversee the deployment of large-scale projects across multiple sites internationally.
+
+The G Suite team is focused on delivering the tools people need to give their creative best at home, school and work. Instead of accepting the status quo, G Suite has a track record of reinventing productivity, from threaded conversations and search in Gmail to real-time collaboration in Docs. As people, schools, and businesses move to the cloud, we are well-positioned to invent the next chapter in productivity, leveraging our expertise in cloud, machine learning, security and scale.
+
+The web is what you make of it and our team is helping the world make more of the web. From open-source pros to user-experience extraordinaires, we develop products that help users connect, communicate and collaborate with others. Our consumer products and cloud platforms are giving millions of users at homes, businesses, universities and nonprofits around the world the tools that shape their web experience -- and changing the way they think about computing.
+
+Responsibilities
+	•	Manage a team of Software Engineers, including task planning and code reviews.
+	•	Drive technical projects and provide leadership in an innovative and fast-paced environment.
+	•	Be responsible for the overall planning, execution and success of complex technical projects.
+	•	Contribute technically to projects.
+	•	Work closely with Product Management team to ensure we're building the best products.
+	•	
