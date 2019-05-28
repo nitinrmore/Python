@@ -1,0 +1,13 @@
+FROM python:3
+
+ADD finance.py /
+
+ADD . /Users/nitinmore/Git/Python
+
+RUN pip install pandas
+
+RUN pip install matplotlib
+
+RUN pip install xlrd
+
+CMD [ "python", "./finance.py" ]

@@ -21,7 +21,7 @@ from pandas import ExcelWriter
 from pandas import ExcelFile
 import matplotlib.pyplot as plt
  
-df = pd.read_excel('~/python/data/finance.xlsx', sheet_name='Sheet1')
+df = pd.read_excel('Data/Finance.xlsx', sheet_name='Sheet1')
  
 #print(df)
 
